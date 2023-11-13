@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **nothing really, school got me busy**
 - 📫 How to reach me: **rrcaseyr@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9tailedfaux)](https://github.com/9tailedfaux/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9tailedfaux)]()
 
 <!---
 9tailedfaux/9tailedfaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
