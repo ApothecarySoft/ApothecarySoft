@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9tailedfaux
+- 👋 Hi, I’m @9tailedfaux. You can call me winter!
 - 👀 I’m passionate about **mobile development**, **embedded software**, **UI/UX design**, and **teaching**
 - 🌱 I’m currently learning about **fault-tolerant systems**, **advanced data storage systems**, **Student Development in Higher Education**, and **PyQt6 UI framework**
 - 📃 I have **BS degree - Software Engineering**
