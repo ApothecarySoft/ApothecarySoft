@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @9tailedfaux
-- 👀 I’m interested in **mobile development**, **embedded software**, and **UI/UX design**
-- 🌱 I’m currently learning **real-time systems** and **machine learning hardware**
-- 💞️ I’m looking to collaborate on **nothing really, school got me busy**
-- 📫 How to reach me: **rrcaseyr@gmail.com**
+- 👀 I’m passionate about **mobile development**, **embedded software**, **UI/UX design**, and **teaching**
+- 🌱 I’m currently learning about **fault-tolerant systems**, **advanced data storage systems**, **Student Development in Higher Education**, and **PyQt6 UI framework**
+- 📃 I have **BS degree - Software Engineering**
+- 👩‍💻 I'm working on **MS degree - Computer Engineering**
+- 👩‍🏫 I’m looking to start a career as a **computer science/engineering educator** (professor, lecturer, etc) in a state that is safe for transgender folks
+- 📫 You can reach me at: **rrcaseyr@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9tailedfaux)]()
 
