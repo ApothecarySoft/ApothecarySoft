@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @9tailedfaux. You can call me winter!
 - 👀 I’m passionate about **mobile development**, **embedded software**, **UI/UX design**, and **teaching**
 - 🌱 I’m currently learning about **fault-tolerant systems**, **advanced data storage systems**, **Student Development in Higher Education**, and **PyQt6 UI framework**
-- 📃 I have **BS degree - Software Engineering**
+- 📃 I have a **BS degree - Software Engineering** and am fluent in **Kotlin**, **Java**, **C**, **C++**, **Python**, **Android Studio**, and many more!
 - 👩‍💻 I'm working on **MS degree - Computer Engineering**
 - 👩‍🏫 I’m looking to start a career as a **computer science/engineering educator** (professor, lecturer, etc) in a state that is safe for transgender folks
 - 📫 You can reach me at: **rrcaseyr@gmail.com**
