@@ -2,7 +2,7 @@
 - 👀 I’m passionate about **mobile development**, **embedded software**, **UI/UX design**, and **teaching**
 - 🌱 I’m currently learning about **fault-tolerant systems**, **advanced data storage systems**, **student development in higher education**, and **PyQt6 UI framework**
 - 📃 I have a **BS degree - Software Engineering** and am fluent in **Kotlin**, **Java**, **C**, **C++**, **Python**, **Android Studio**, and many more!
-- 👩‍💻 I'm working on **MS degree - Computer Engineering**
+- 👩‍💻 I'll have an **MS degree - Computer Engineering** in August 2024
 - 👩‍🏫 I’m looking to start a career as a **computer science/engineering educator** (professor, lecturer, etc) or **software developer** (Java/Kotlin/C/C++). 
 - 📫 You can reach me at: **rrcaseyr@gmail.com**
 
