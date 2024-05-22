@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @9tailedfaux. You can call me winter!
 - 👀 I’m passionate about **mobile development**, **embedded software**, **UI/UX design**, and **teaching**
-- 🌱 I’m currently learning about **fault-tolerant systems**, **advanced data storage systems**, **student development in higher education**, and **PyQt6 UI framework**
+- 🌱 I’m currently learning about **native iOS Development**, **advanced data storage systems**, **student development in higher education**, and **Jetpack Compose**
 - 📃 I have a **BS degree - Software Engineering** and am fluent in **Kotlin**, **Java**, **C**, **C++**, **Python**, **Android Studio**, and many more!
 - 👩‍💻 I'll have an **MS degree - Computer Engineering** in August 2024
 - 👩‍🏫 I’m looking to start a career as a **computer science/engineering educator** (professor, lecturer, etc) or **software developer** (Java/Kotlin/C/C++). 
