@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9tailedfaux. You can call me winter!
+- 👋 Hi, I’m @ApothecarySoft. You can call me winter!
 - 👀 I’m passionate about **mobile development**, **embedded software**, **UI/UX design**, and **teaching**
 - 🌱 I’m currently learning about **native iOS Development**, **GraphQL**, and **Jetpack Compose**
 - 📃 I have a **BS degree - Software Engineering** and am fluent in **Kotlin**, **Java**, **C**, **C++**, **Python**, **Android Studio**, and many more!
