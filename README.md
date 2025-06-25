@@ -6,7 +6,7 @@
 - 👩‍🏫 I’m looking to start a career as a **computer science/engineering educator** (professor, lecturer, etc) or **software developer** (Java/Kotlin/C/C++). 
 - 📫 You can reach me at: **rrcaseyr@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9tailedfaux)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApothecarySoft)]()
 
 I'm about 95% sure the above widget is wrong but hey it looks nice!
 
