@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ApothecarySoft. You can call me winter!
 - 👀 I’m passionate about **mobile development**, **embedded software**, **UI/UX design**, and **teaching**
 - 🌱 I’m currently learning about **native iOS Development**, **GraphQL**, and **Jetpack Compose**
-- 📃 I have a **BS degree - Software Engineering** and a **MS degree - Computer Engineering**
+- 📃 I have a  **MS degree - Computer Engineering** and a **BS degree - Software Engineering**
 - 👩‍💻 I am fluent in **Kotlin**, **Java**, **C**, **C++**, **Python**, **Android Studio**, and many more!
 - 👩‍🏫 I'm currently working as a C++/C#/Yocto software engineer at **Safran Federal Systems**
 - 📫 You can reach me at: **rrcaseyr@gmail.com**
